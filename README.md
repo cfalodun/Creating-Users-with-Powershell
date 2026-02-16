@@ -3,12 +3,25 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-## Objective
+## Project Summary
 
-Configure Remote Desktop access for standard domain users and automate user provisioning with PowerShell, then verify accounts in Active Directory and test domain authentication on Client-1.
+This project demonstrates automated user provisioning in Active Directory using PowerShell scripting. Multiple domain user accounts were generated programmatically and validated within Active Directory Users and Computers (ADUC).
+
+### Languages Used
+- PowerShell
+
+### Environments Used
+- Microsoft Azure
+- Windows Server (Domain Controller)
+- Windows 10 (Client Machine)
+
+### Technologies / Services Used
+- Active Directory
+- PowerShell ISE
+- Azure Virtual Machines
 
 ---
-
+# Demonstration
 ## Step 1 – Enable Remote Desktop for Domain Users
 
 Logged into **Client-1** as:
