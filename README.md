@@ -1,5 +1,9 @@
 # Active Directory: Bulk User Creation with PowerShell
 
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
+
 ## Project Summary
 
 This project demonstrates how to create multiple Active Directory user accounts with PowerShell instead of creating them one by one manually in Active Directory Users and Computers (ADUC).
